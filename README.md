@@ -52,5 +52,5 @@ If you require the pending features to be completed, feel free to reach out. Oth
 3. Launch the application using your preferred IDE or terminal with the command `flutter run`.
 
 ## Contact
-For any queries or additional requests, please contact me at [Your Email Address].
+For any queries or additional requests, please contact me at [mishalhaneefpersonal@gmail.com].
 
